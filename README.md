@@ -2,5 +2,5 @@
 
 Meu nome é Luana Lemes / _**nº 23**_
 
-- Estou estudando na Alura;
-- Estou me desenvolvendo na linguagem JavaScript.
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
